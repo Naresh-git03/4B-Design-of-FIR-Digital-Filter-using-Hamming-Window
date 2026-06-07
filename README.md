@@ -7,7 +7,7 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```
+```c
 clc ;
 close ;
 M=input('Enter the Odd Filter Length =');
@@ -53,7 +53,7 @@ Thus design of low pass FIR digital filter using-Hamming-Window waveforms were p
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```
+```c
 clc ;
 close ;
 M=input('Enter the Odd Filter Length =');
@@ -98,7 +98,7 @@ Thus design of HIGH pass FIR digital filter using-Hamming-Window waveforms were 
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```
+```c
 clc ;
 close ;
 M=input('Enter the Odd Filter Length =');
@@ -145,7 +145,7 @@ Thus design of BAND pass FIR digital filter using-Hamming-Window waveforms were 
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```
+```c
 clc ;
 close ;
 M=input('Enter the Odd Filter Length =');
